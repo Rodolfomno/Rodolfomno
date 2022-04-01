@@ -1,7 +1,6 @@
 ## Olá, meu nome é Rodolfo Marques
   
-- 🔭 I’m currently working on  
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on new projects
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
 - 😄 Pronouns: ...
