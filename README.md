@@ -1,4 +1,7 @@
 ## Olá, meu nome é Rodolfo Marques
+
+<img align="right" alt="codinggif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
   
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on new projects
@@ -6,6 +9,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <div style="display: inline_block" align="center">
   <a href="https://github.com/rodolfomno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodolfomno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
