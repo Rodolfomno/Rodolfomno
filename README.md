@@ -3,7 +3,7 @@
 <img align="right" alt="codinggif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
   
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning POO and Typescript
 - 👯 I’m looking to collaborate on new projects
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
 - 😄 Pronouns: ...
