@@ -1,4 +1,4 @@
-## Olá, meu nome é Rodolfo Marques
+## Hey there! I am Rodolfo Marques
 
 <img align="right" alt="codinggif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
