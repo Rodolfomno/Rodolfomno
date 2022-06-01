@@ -33,6 +33,7 @@
   <img align="center" alt="Rodolfo-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 </div>
 
+<br>
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/rodolfomno">
@@ -42,7 +43,7 @@
   
   
 <br>
-  <h1>Contact</h1>
+  <h1>Contact me</h1>
 <div align="center"> 
   <a href = "mailto:rodolfo_mno@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodolfomno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
