@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning TypeScript, Java and Springboot!
 - 👯 I’m looking to collaborate on new projects
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
--->
 <br>
 <br>
 <br>
