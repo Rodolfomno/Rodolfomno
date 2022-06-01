@@ -11,13 +11,6 @@
 <br>
 <br>
 <br>
-
-
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/rodolfomno">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodolfomno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomno&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   <h1>Tecnologies</h1>
 <div style="display: inline_block" align="center"><br>
@@ -38,6 +31,15 @@
   <img align="center" alt="Rodolfo-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rodolfo-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 </div>
+
+
+<div style="display: inline_block" align="center">
+  <a href="https://github.com/rodolfomno">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodolfomno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomno&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  
 <br>
 <div align="center"> 
   <a href = "mailto:rodolfo_mno@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
