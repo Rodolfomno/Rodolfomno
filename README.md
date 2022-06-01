@@ -13,7 +13,13 @@
 <br>
 
 
-
+<div style="display: inline_block" align="center">
+  <a href="https://github.com/rodolfomno">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodolfomno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomno&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <h1>Tecnologies</h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rodolfo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodolfo-Jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
@@ -31,12 +37,6 @@
   <img align="center" alt="Rodolfo-mongodb" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rodolfo-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rodolfo-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-</div>
-<br>
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/rodolfomno">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodolfomno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomno&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <div align="center"> 
