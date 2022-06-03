@@ -3,7 +3,8 @@
 <img align="right" alt="codinggif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
   
-- 🌱 I’m currently learning TypeScript, Java and Springboot!
+- 🌱 I’m currently learning Java in a bootcamp with Wipro company
+- and MongoDB in Trybe!
 - 👯 I’m looking to collaborate on new projects
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
 <br>
