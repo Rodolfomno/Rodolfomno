@@ -4,8 +4,7 @@
 
   
 - 🌱 I’m currently learning Java in a bootcamp with Wipro company
-- and MongoDB in Trybe!
-- 👯 I’m looking to collaborate on new projects
+- 🌱 Studyng MongoDB in Trybe!
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
 <br>
 <br>
