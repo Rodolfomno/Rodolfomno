@@ -13,7 +13,7 @@
 <br>
 <br>
   
-  <h1>Tecnologies</h1>
+  <h1>Technologies</h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rodolfo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodolfo-Jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
