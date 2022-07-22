@@ -3,7 +3,6 @@
 <img align="right" alt="codinggif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
   
-- 🌱 I’m currently learning Java in a bootcamp with Wipro company
 - 🌱 Studyng Python in Trybe!
 - 🌱 Learning Cloud
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
