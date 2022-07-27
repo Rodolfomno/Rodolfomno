@@ -3,8 +3,7 @@
 <img align="right" alt="codinggif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
   
-- 🌱 Studyng Python in Trybe!
-- 🌱 Learning Cloud
+- 🌱 Studyng Python Blockchain and Cloud!
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
 <br>
 <br>
