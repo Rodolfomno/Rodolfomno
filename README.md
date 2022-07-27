@@ -5,6 +5,7 @@
   
 - 🌱 Studyng Python Blockchain and Cloud!
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
+- :telescope: Science enthusiast
 <br>
 <br>
 <br>
