@@ -3,7 +3,7 @@
 <img align="right" alt="codinggif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
   
-- 🌱 Studyng Python Blockchain and Cloud!
+- 🌱 Studyng
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
 - :telescope: Science enthusiast
 <br>
