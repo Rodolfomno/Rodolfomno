@@ -3,7 +3,7 @@
 <img align="right" alt="codinggif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
   
-- 🌱 Studyng Java and Node js
+- 🌱 Studyng Python(machine learning, AI...) and Node js
 - 📫 How to reach me: Rodolfo_mno@hotmail.com
 - :telescope: Science enthusiast
 <br>
